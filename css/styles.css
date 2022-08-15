@@ -232,3 +232,9 @@ h2 {
 #mc_embed_signup{
   margin: auto;
 }
+
+.card{
+ margin: auto;
+ border: black solid;
+ background-color: rgb(255, 242, 98);
+}
